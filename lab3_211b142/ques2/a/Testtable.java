@@ -1,0 +1,3 @@
+interface Testtable{
+    void show();
+}
